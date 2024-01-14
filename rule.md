@@ -7,6 +7,7 @@
     - update: {content} => when I add contents to file.
     - fix: {content} => when I fix contents in file.
     - delete: {content} => when I delete contents in file.
+    - test: {content} => when I do test.
 
     content is base past tense.
 
